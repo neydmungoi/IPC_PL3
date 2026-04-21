@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 844" width="390" height="844">
+    <rect x="0" y="0" width="390" height="844" fill="#1A202C" rx="30" ry="30"/>
+
+    <path d="M0 30 C0 13.431 13.431 0 30 0 L360 0 C376.569 0 390 13.431 390 30 L390 100 L0 100 Z" fill="#204E7A"/>
+    <text x="20" y="65" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF">Apoio à Decisão</text>
+    
+    <rect x="20" y="120" width="80" height="30" fill="#204E7A" rx="15"/>
+    <text x="60" y="140" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Vinha</text>
+    
+    <rect x="110" y="120" width="80" height="30" fill="#1A202C" rx="15"/>
+    <text x="150" y="140" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Olival</text>
+
+    <text x="20" y="185" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#F0E9DA">Recomendação da Semana</text>
+    <rect x="20" y="200" width="350" height="110" fill="#4A5A6A" stroke="#204E7A" stroke-width="2" rx="12"/>
+    <rect x="20" y="200" width="8" height="110" fill="#204E7A" rx="4"/>
+    <text x="45" y="230" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#F0E9DA">Adaptação do Calendário</text>
+    <text x="45" y="255" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">Devido à tendência de seca severa,</text>
+    <text x="45" y="275" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">considere adiar o plantio em 15 dias.</text>
+    <circle cx="330" cy="255" r="16" fill="#204E7A"/>
+    <polygon points="326,248 326,262 337,255" fill="#FFFFFF"/>
+
+    <text x="20" y="350" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#F0E9DA">Biblioteca de Podcasts</text>
+
+    <rect x="20" y="370" width="350" height="80" fill="#5B6C7A" stroke="#204E7A" stroke-width="1" rx="10"/>
+    <rect x="35" y="385" width="50" height="50" fill="#1A202C" rx="8"/>
+    <rect x="50" y="395" width="4" height="30" fill="#FFFFFF" rx="2"/>
+    <rect x="58" y="405" width="4" height="20" fill="#FFFFFF" rx="2"/>
+    <rect x="66" y="390" width="4" height="35" fill="#FFFFFF" rx="2"/>
+    
+    <text x="100" y="405" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#F0E9DA">Boas Práticas de Rega</text>
+    <text x="100" y="425" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF">Ep. 1 • 3 min de duração</text>
+    <circle cx="335" cy="410" r="14" fill="#204E7A"/>
+    <polygon points="331,404 331,416 341,410" fill="#FFFFFF"/>
+
+    <rect x="20" y="465" width="350" height="80" fill="#5B6C7A" stroke="#204E7A" stroke-width="1" rx="10"/>
+    <rect x="35" y="480" width="50" height="50" fill="#1A202C" rx="8"/>
+    <rect x="50" y="490" width="4" height="30" fill="#FFFFFF" rx="2"/>
+    <rect x="58" y="500" width="4" height="20" fill="#FFFFFF" rx="2"/>
+    <rect x="66" y="485" width="4" height="35" fill="#FFFFFF" rx="2"/>
+
+    <text x="100" y="500" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#F0E9DA">Gestão de Stress Hídrico</text>
+    <text x="100" y="520" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF">Ep. 2 • 4 min de duração</text>
+    <circle cx="335" cy="505" r="14" fill="#204E7A"/>
+    <polygon points="331,499 331,511 341,505" fill="#FFFFFF"/>
+
+    <rect x="20" y="700" width="350" height="70" fill="#0B111A" rx="35"/>
+    <circle cx="55" cy="735" r="20" fill="#1A202C" opacity="0.3"/>
+    <rect x="49" y="725" width="4" height="20" fill="#F0E9DA" rx="2"/>
+    <rect x="57" y="725" width="4" height="20" fill="#F0E9DA" rx="2"/> <text x="90" y="730" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#F0E9DA">Boas Práticas de Rega</text>
+    <text x="90" y="750" font-family="Arial, sans-serif" font-size="12" fill="#F0E9DA" opacity="0.8">01:15 / 03:00</text>
+    <rect x="90" y="760" width="230" height="4" fill="#5B6C7A" rx="2"/>
+    <rect x="90" y="760" width="100" height="4" fill="#FFFFFF" rx="2"/> <rect x="0" y="790" width="390" height="54" fill="#5B6C7A" stroke="#204E7A" stroke-width="1"/>
+    <rect x="30" y="800" width="40" height="30" fill="none" rx="10"/>
+    <circle cx="50" cy="815" r="8" fill="#F0E9DA"/>
+    <circle cx="145" cy="815" r="8" fill="#F0E9DA"/>
+    <rect x="220" y="800" width="45" height="30" fill="#1A202C" rx="10"/>
+    <rect x="235" y="807" width="16" height="16" fill="#204E7A" rx="4"/>
+    <circle cx="340" cy="810" r="6" fill="none" stroke="#F0E9DA" stroke-width="3"/>
+    <path d="M330 825 Q 340 815, 350 825" fill="none" stroke="#F0E9DA" stroke-width="3"/>
+
+    <rect x="125" y="832" width="140" height="5" fill="#FFFFFF" rx="2.5" opacity="0.5"/>
+</svg>

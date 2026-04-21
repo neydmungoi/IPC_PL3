@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 390 844" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <path d="M390,30L390,814C390,830.557 376.557,844 360,844L30,844C13.443,844 0,830.557 0,814L0,30C0,13.443 13.443,0 30,0L360,0C376.557,0 390,13.443 390,30Z" style="fill:rgb(240,233,218);"/>
+    <path d="M0,30C0,13.431 13.431,0 30,0L360,0C376.569,0 390,13.431 390,30L390,110L0,110L0,30Z" style="fill:rgb(32,78,122);fill-rule:nonzero;"/>
+    <g transform="matrix(1,0,0,1,195,55)">
+        <text x="-112.444px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:22px;fill:white;">SENTINELA<tspan x="11.414px 17.526px " y="0px 0px "> -</tspan> V<tspan x="44.005px 57.444px " y="0px 0px ">ox</tspan>Noti</text>
+    </g>
+    <g transform="matrix(1,0,0,1,195,85)">
+        <g transform="matrix(14,0,0,14,-35.796387,0)">
+        </g>
+        <g transform="matrix(14,0,0,14,-31.906738,0)">
+        </g>
+        <text x="-61.479px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:rgb(160,174,192);">Conﬁguração Inicial</text>
+    </g>
+    <g transform="matrix(1,0,0,1,20,150)">
+        <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:16px;fill:rgb(32,78,122);">1. Localização da Propriedade</text>
+    </g>
+    <path d="M370,180L370,210C370,215.519 365.519,220 360,220L30,220C24.481,220 20,215.519 20,210L20,180C20,174.481 24.481,170 30,170L360,170C365.519,170 370,174.481 370,180Z" style="fill:white;stroke:rgb(91,108,122);stroke-width:2px;"/>
+    <g transform="matrix(1,0,0,1,35,200)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:rgb(91,108,122);">Região do Douro (Coordenadas...)</text>
+    </g>
+    <path d="M360,186L360,204C360,207.311 357.311,210 354,210L256,210C252.689,210 250,207.311 250,204L250,186C250,182.689 252.689,180 256,180L354,180C357.311,180 360,182.689 360,186Z" style="fill:rgb(32,78,122);"/>
+    <g transform="matrix(1,0,0,1,305,200)">
+        <text x="-27.68px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:12px;fill:white;">Usar GPS</text>
+    </g>
+    <g transform="matrix(1,0,0,1,20,260)">
+        <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:16px;fill:rgb(32,78,122);">2. Culturas a Monitorizar</text>
+    </g>
+    <path d="M110,300C110,311.038 101.038,320 90,320L40,320C28.962,320 20,311.038 20,300C20,288.962 28.962,280 40,280L90,280C101.038,280 110,288.962 110,300Z" style="fill:rgb(91,108,122);"/>
+    <g transform="matrix(1,0,0,1,65,305)">
+        <text x="-17.777px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:white;">V<tspan x="-8.692px -5.582px " y="0px 0px ">in</tspan>ha</text>
+    </g>
+    <path d="M210,300C210,311.038 201.038,320 190,320L140,320C128.962,320 120,311.038 120,300C120,288.962 128.962,280 140,280L190,280C201.038,280 210,288.962 210,300Z" style="fill:rgb(91,108,122);"/>
+    <g transform="matrix(1,0,0,1,165,305)">
+        <text x="-17.503px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:white;">Olival</text>
+    </g>
+    <path d="M350,300C350,311.038 341.038,320 330,320L240,320C228.962,320 220,311.038 220,300C220,288.962 228.962,280 240,280L330,280C341.038,280 350,288.962 350,300Z" style="fill:none;stroke:rgb(32,78,122);stroke-width:2px;stroke-dasharray:4,4;"/>
+    <g transform="matrix(1,0,0,1,248.530864,305)">
+        <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:14px;fill:rgb(32,78,122);">+ <tspan x="11.546px 21.656px " y="0px 0px ">Ad</tspan>icionar</text>
+    </g>
+    <g transform="matrix(1,0,0,1,20,365)">
+        <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:16px;fill:rgb(32,78,122);">3. Preferências de Áudio</text>
+    </g>
+    <path d="M370,395L370,585C370,590.519 365.519,595 360,595L30,595C24.481,595 20,590.519 20,585L20,395C20,389.481 24.481,385 30,385L360,385C365.519,385 370,389.481 370,395Z" style="fill:white;stroke:rgb(91,108,122);stroke-width:1px;"/>
+    <g transform="matrix(1,0,0,1,40,420)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:rgb(91,108,122);">V<tspan x="8.565px 16.352px " y="0px 0px ">ol</tspan>ume Geral</text>
+    </g>
+    <path d="M350,443C350,444.656 348.656,446 347,446L43,446C41.344,446 40,444.656 40,443C40,441.344 41.344,440 43,440L347,440C348.656,440 350,441.344 350,443Z" style="fill:rgb(226,232,240);"/>
+    <path d="M240,443C240,444.656 238.656,446 237,446L43,446C41.344,446 40,444.656 40,443C40,441.344 41.344,440 43,440L237,440C238.656,440 240,441.344 240,443Z" style="fill:rgb(32,78,122);"/>
+    <circle cx="240" cy="443" r="10" style="fill:rgb(32,78,122);"/>
+    <g transform="matrix(1,0,0,1,40,490)">
+        <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:14px;fill:rgb(32,78,122);">V<tspan x="8.299px 16.851px " y="0px 0px ">oz</tspan> (Spearcons)</text>
+    </g>
+    <path d="M350,498C350,505.175 344.175,511 337,511L313,511C305.825,511 300,505.175 300,498C300,490.825 305.825,485 313,485L337,485C344.175,485 350,490.825 350,498Z" style="fill:rgb(72,187,120);"/>
+    <circle cx="337" cy="498" r="11" style="fill:white;"/>
+    <g transform="matrix(1,0,0,1,40,555)">
+        <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:14px;fill:rgb(32,78,122);">Sons (Earcons)</text>
+    </g>
+    <path d="M350,563C350,570.175 344.175,576 337,576L313,576C305.825,576 300,570.175 300,563C300,555.825 305.825,550 313,550L337,550C344.175,550 350,555.825 350,563Z" style="fill:rgb(72,187,120);"/>
+    <circle cx="337" cy="563" r="11" style="fill:white;"/>
+    <path d="M370,630L370,690C370,695.519 365.519,700 360,700L30,700C24.481,700 20,695.519 20,690L20,630C20,624.481 24.481,620 30,620L360,620C365.519,620 370,624.481 370,630Z" style="fill:rgb(32,78,122);fill-opacity:0.1;"/>
+    <path d="M370,630L370,690C370,695.519 365.519,700 360,700L30,700C24.481,700 20,695.519 20,690L20,630C20,624.481 24.481,620 30,620L360,620C365.519,620 370,624.481 370,630Z" style="fill:none;stroke:rgb(32,78,122);stroke-width:2px;"/>
+    <g transform="matrix(1,0,0,1,40,650)">
+        <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:15px;fill:rgb(32,78,122);">T<tspan x="8.049px 17.212px " y="0px 0px ">ut</tspan>orial Áudio Recomendado</text>
+    </g>
+    <path d="M349,649L349,665C349,667.208 347.208,669 345,669L329,669C326.792,669 325,667.208 325,665L325,649C325,646.792 326.792,645 329,645L345,645C347.208,645 349,646.792 349,649Z" style="fill:rgb(32,78,122);"/>
+    <path d="M330,657L335,662L344,651" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:3px;stroke-linecap:round;stroke-linejoin:round;"/>
+    <path d="M370,765L370,795C370,803.279 363.279,810 355,810L35,810C26.721,810 20,803.279 20,795L20,765C20,756.721 26.721,750 35,750L355,750C363.279,750 370,756.721 370,765Z" style="fill:rgb(32,78,122);"/>
+    <g transform="matrix(1,0,0,1,195,786)">
+        <g transform="matrix(18,0,0,18,15.987305,0)">
+        </g>
+        <g transform="matrix(18,0,0,18,21.981445,0)">
+        </g>
+        <text x="-97.005px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:18px;fill:white;">Concluir Conﬁguração</text>
+    </g>
+    <path d="M265,827.5C265,828.88 263.88,830 262.5,830L127.5,830C126.12,830 125,828.88 125,827.5C125,826.12 126.12,825 127.5,825L262.5,825C263.88,825 265,826.12 265,827.5Z" style="fill:rgb(91,108,122);fill-opacity:0.5;"/>
+</svg>

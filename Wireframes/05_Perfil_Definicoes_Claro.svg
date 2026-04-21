@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 844" width="390" height="844">
+    <rect x="0" y="0" width="390" height="844" fill="#F0E9DA" rx="30" ry="30"/>
+
+    <path d="M0 30 C0 13.431 13.431 0 30 0 L360 0 C376.569 0 390 13.431 390 30 L390 150 L0 150 Z" fill="#204E7A"/>
+    <text x="195" y="55" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Perfil e Definições</text>
+    
+    <circle cx="60" cy="100" r="30" fill="#5B6C7A"/>
+    <text x="60" y="108" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="middle">AG</text>
+    <text x="105" y="95" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF">João Agricultor</text>
+    <text x="105" y="115" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF" opacity="0.8">Perfil: Agricultor - Região Douro</text>
+
+    <text x="20" y="190" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#204E7A">Propriedade e Culturas</text>
+    <rect x="20" y="205" width="350" height="90" fill="#FFFFFF" stroke="#5B6C7A" stroke-width="1" rx="10"/>
+    <text x="40" y="235" font-family="Arial, sans-serif" font-size="14" fill="#5B6C7A">Culturas Associadas:</text>
+    <rect x="40" y="245" width="60" height="30" fill="#E2E8F0" rx="15"/>
+    <text x="70" y="265" font-family="Arial, sans-serif" font-size="12" fill="#204E7A" text-anchor="middle">Vinha</text>
+    <rect x="110" y="245" width="60" height="30" fill="#E2E8F0" rx="15"/>
+    <text x="140" y="265" font-family="Arial, sans-serif" font-size="12" fill="#204E7A" text-anchor="middle">Olival</text>
+    <rect x="180" y="245" width="60" height="30" fill="none" stroke="#204E7A" stroke-width="1" rx="15"/>
+    <text x="210" y="265" font-family="Arial, sans-serif" font-size="12" fill="#204E7A" text-anchor="middle">+ Milho</text>
+
+    <text x="20" y="335" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#204E7A">Limiares de Alerta (Seca)</text>
+    <rect x="20" y="350" width="350" height="60" fill="#FFFFFF" stroke="#5B6C7A" stroke-width="1" rx="10"/>
+    <text x="40" y="385" font-family="Arial, sans-serif" font-size="15" fill="#204E7A">Configurar Sensibilidade SPI / SPEI</text>
+    <path d="M340 375 L350 380 L340 385" fill="none" stroke="#5B6C7A" stroke-width="2"/> <text x="20" y="450" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#204E7A">Acessibilidade e Inclusão</text>
+    <rect x="20" y="465" width="350" height="190" fill="#FFFFFF" stroke="#5B6C7A" stroke-width="1" rx="10"/>
+    
+    <text x="40" y="500" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#204E7A">Vibração Hática Extra</text>
+    <text x="40" y="520" font-family="Arial, sans-serif" font-size="11" fill="#5B6C7A">Complemento tátil para ambientes ruidosos</text>
+    <rect x="300" y="495" width="50" height="26" fill="#48BB78" rx="13"/> <circle cx="337" cy="508" r="11" fill="#FFFFFF"/>
+    <line x1="40" y1="535" x2="350" y2="535" stroke="#E2E8F0" stroke-width="1"/>
+
+    <text x="40" y="565" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#204E7A">Modo Linguagem Simples</text>
+    <text x="40" y="585" font-family="Arial, sans-serif" font-size="11" fill="#5B6C7A">Evitar jargão técnico excessivo nos alertas</text>
+    <rect x="300" y="560" width="50" height="26" fill="#48BB78" rx="13"/> <circle cx="337" cy="573" r="11" fill="#FFFFFF"/>
+    <line x1="40" y1="600" x2="350" y2="600" stroke="#E2E8F0" stroke-width="1"/>
+
+    <text x="40" y="630" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#204E7A">Comandos de Voz</text>
+    <rect x="300" y="615" width="50" height="26" fill="#E2E8F0" rx="13"/> <circle cx="313" cy="628" r="11" fill="#FFFFFF"/>
+
+    <rect x="20" y="685" width="350" height="50" fill="#FFF5F5" stroke="#FC8181" stroke-width="1" rx="10"/>
+    <text x="195" y="715" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#E53E3E" text-anchor="middle">Terminar Sessão</text>
+
+    <rect x="0" y="790" width="390" height="54" fill="#FFFFFF" stroke="#5B6C7A" stroke-width="1"/>
+    <rect x="30" y="800" width="40" height="30" fill="none" rx="10"/>
+    <circle cx="50" cy="815" r="8" fill="#5B6C7A"/>
+    <circle cx="145" cy="815" r="8" fill="#5B6C7A"/>
+    <rect x="235" y="807" width="16" height="16" fill="#5B6C7A" rx="4"/>
+    <rect x="315" y="800" width="45" height="30" fill="#F0E9DA" rx="10"/>
+    <circle cx="337" cy="810" r="6" fill="none" stroke="#204E7A" stroke-width="3"/>
+    <path d="M327" y="825 Q 337 815, 347 825" fill="none" stroke="#204E7A" stroke-width="3"/>
+
+    <rect x="125" y="832" width="140" height="5" fill="#5B6C7A" rx="2.5" opacity="0.5"/>
+</svg>

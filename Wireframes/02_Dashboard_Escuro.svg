@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 390 844" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <path d="M390,30L390,814C390,830.557 376.557,844 360,844L30,844C13.443,844 0,830.557 0,814L0,30C0,13.443 13.443,0 30,0L360,0C376.557,0 390,13.443 390,30Z" style="fill:rgb(26,32,44);"/>
+    <path d="M0,30C0,13.431 13.431,0 30,0L360,0C376.569,0 390,13.431 390,30L390,100L0,100L0,30Z" style="fill:rgb(32,78,122);fill-rule:nonzero;"/>
+    <g transform="matrix(1,0,0,1,20,55)">
+        <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:22px;fill:white;">Olá, <tspan x="46.868px 62.756px " y="0px 0px ">Ag</tspan>ricultor</text>
+        <text x="158.093px" y="0px" style="font-family:'SegoeUIEmoji', 'Segoe UI Emoji', sans-serif;font-size:22px;fill:white;">👋</text>
+    </g>
+    <g transform="matrix(1,0,0,1,20,80)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:white;">Região: Douro (V<tspan x="107.912px 111.022px " y="0px 0px ">in</tspan>ha e Olival)</text>
+    </g>
+    <circle cx="350" cy="55" r="16" style="fill:white;fill-opacity:0.2;"/>
+    <circle cx="356" cy="48" r="5" style="fill:rgb(229,62,62);"/>
+    <path d="M344,58L356,58C353,62 347,62 344,58Z" style="fill:white;fill-rule:nonzero;"/>
+    <path d="M370,132L370,188C370,194.623 364.623,200 358,200L32,200C25.377,200 20,194.623 20,188L20,132C20,125.377 25.377,120 32,120L358,120C364.623,120 370,125.377 370,132Z" style="fill:rgb(91,108,122);stroke:rgb(32,78,122);stroke-width:1px;"/>
+    <path d="M28,124L28,196C28,198.208 26.208,200 24,200C21.792,200 20,198.208 20,196L20,124C20,121.792 21.792,120 24,120C26.208,120 28,121.792 28,124Z" style="fill:rgb(221,107,32);"/>
+    <g transform="matrix(1,0,0,1,45,150)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:rgb(240,233,218);">Estado <tspan x="46.703px 56.041px " y="0px 0px ">At</tspan>ual (Índice de Seca)</text>
+    </g>
+    <g transform="matrix(1,0,0,1,45,175)">
+        <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:20px;fill:rgb(221,107,32);">Alerta: Severo</text>
+    </g>
+    <g transform="matrix(1,0,0,1,20,235)">
+        <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:16px;fill:rgb(240,233,218);">Mapa de Calor (Humidade do Solo)</text>
+    </g>
+    <path d="M370,262L370,438C370,444.623 364.623,450 358,450L32,450C25.377,450 20,444.623 20,438L20,262C20,255.377 25.377,250 32,250L358,250C364.623,250 370,255.377 370,262Z" style="fill:rgb(26,32,44);"/>
+    <path d="M20,350C106.667,283.333 223.333,273.333 370,320" style="fill:none;fill-rule:nonzero;stroke:rgb(32,78,122);stroke-opacity:0.6;stroke-width:6px;"/>
+    <circle cx="120" cy="300" r="40" style="fill:rgb(229,62,62);fill-opacity:0.5;"/>
+    <g transform="matrix(1,0,0,1,31.259259,-80)">
+        <circle cx="250" cy="380" r="50" style="fill:rgb(221,107,32);fill-opacity:0.5;"/>
+    </g>
+    <g transform="matrix(0.803909,0,0,0.826337,42.040329,59.382232)">
+        <circle cx="200" cy="280" r="60" style="fill:rgb(236,201,75);fill-opacity:0.5;"/>
+    </g>
+    <circle cx="120" cy="300" r="6" style="fill:rgb(240,233,218);"/>
+    <circle cx="120" cy="300" r="12" style="fill:none;stroke:rgb(240,233,218);stroke-width:2px;"/>
+    <g transform="matrix(1,0,0,1,20,490)">
+        <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:16px;fill:rgb(240,233,218);">Evolução - Últimos 30 Dias</text>
+    </g>
+    <path d="M370,517L370,643C370,649.623 364.623,655 358,655L32,655C25.377,655 20,649.623 20,643L20,517C20,510.377 25.377,505 32,505L358,505C364.623,505 370,510.377 370,517Z" style="fill:rgb(91,108,122);stroke:rgb(32,78,122);stroke-width:1px;"/>
+    <path d="M50,630L350,630" style="fill:none;fill-rule:nonzero;stroke:rgb(32,78,122);stroke-width:2px;"/>
+    <path d="M50,580L350,580" style="fill:none;fill-rule:nonzero;stroke:rgb(32,78,122);stroke-width:1px;stroke-dasharray:4,4;"/>
+    <path d="M50,530L350,530" style="fill:none;fill-rule:nonzero;stroke:rgb(32,78,122);stroke-width:1px;stroke-dasharray:4,4;"/>
+    <path d="M50,540L100,560L150,550L200,590L250,580L300,620L350,610" style="fill:none;fill-rule:nonzero;stroke:rgb(229,62,62);stroke-width:3px;"/>
+    <circle cx="350" cy="610" r="5" style="fill:rgb(229,62,62);"/>
+    <g transform="matrix(1,0,0,1,20,695)">
+        <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:16px;fill:rgb(240,233,218);">Recomendação para si</text>
+    </g>
+    <path d="M370,720L370,760C370,765.519 365.519,770 360,770L30,770C24.481,770 20,765.519 20,760L20,720C20,714.481 24.481,710 30,710L360,710C365.519,710 370,714.481 370,720Z" style="fill:rgb(91,108,122);stroke:rgb(32,78,122);stroke-width:2px;"/>
+    <circle cx="50" cy="740" r="16" style="fill:rgb(32,78,122);"/>
+    <path d="M46,733L46,747L56,740L46,733Z" style="fill:white;fill-rule:nonzero;"/>
+    <g transform="matrix(1,0,0,1,80,735)">
+        <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:14px;fill:rgb(240,233,218);">Ouvir Podcast</text>
+    </g>
+    <g transform="matrix(1,0,0,1,80,755)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:rgb(240,233,218);">Boas práticas de rega para V<tspan x="155.209px 157.875px " y="0px 0px ">in</tspan>ha</text>
+    </g>
+    <rect x="0" y="790" width="390" height="54" style="fill:rgb(91,108,122);stroke:rgb(32,78,122);stroke-width:1px;"/>
+    <path d="M70,810L70,820C70,825.519 65.519,830 60,830L40,830C34.481,830 30,825.519 30,820L30,810C30,804.481 34.481,800 40,800L60,800C65.519,800 70,804.481 70,810Z" style="fill:rgb(32,78,122);"/>
+    <circle cx="50" cy="815" r="8" style="fill:rgb(240,233,218);"/>
+    <circle cx="145" cy="815" r="8" style="fill:rgb(240,233,218);"/>
+    <path d="M251,811L251,819C251,821.208 249.208,823 247,823L239,823C236.792,823 235,821.208 235,819L235,811C235,808.792 236.792,807 239,807L247,807C249.208,807 251,808.792 251,811Z" style="fill:rgb(240,233,218);"/>
+    <circle cx="340" cy="810" r="6" style="fill:none;stroke:rgb(240,233,218);stroke-width:3px;"/>
+    <path d="M330,825C336.667,818.333 343.333,818.333 350,825" style="fill:none;fill-rule:nonzero;stroke:rgb(240,233,218);stroke-width:3px;"/>
+    <path d="M265,834.5C265,835.88 263.88,837 262.5,837L127.5,837C126.12,837 125,835.88 125,834.5C125,833.12 126.12,832 127.5,832L262.5,832C263.88,832 265,833.12 265,834.5Z" style="fill:rgb(240,233,218);fill-opacity:0.5;"/>
+</svg>

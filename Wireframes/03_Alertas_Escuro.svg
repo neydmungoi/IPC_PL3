@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 844" width="390" height="844">
+    <rect x="0" y="0" width="390" height="844" fill="#1A202C" rx="30" ry="30"/>
+
+    <path d="M0 30 C0 13.431 13.431 0 30 0 L360 0 C376.569 0 390 13.431 390 30 L390 100 L0 100 Z" fill="#204E7A"/>
+    <text x="20" y="65" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF">Alertas e Histórico</text>
+    
+    <rect x="20" y="120" width="350" height="60" fill="#5B6C7A" stroke="#204E7A" stroke-width="1" rx="10"/>
+    <text x="40" y="155" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#F0E9DA">Modo Soneca (Noturno)</text>
+    <rect x="300" y="137" width="50" height="26" fill="#1A202C" rx="13"/> <circle cx="313" cy="150" r="11" fill="#5B6C7A"/>
+    
+    <text x="20" y="220" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#F0E9DA">Alerta Crítico Recente</text>
+
+    <rect x="20" y="240" width="350" height="120" fill="#3A202C" stroke="#E53E3E" stroke-width="2" rx="12"/>
+    <rect x="20" y="240" width="8" height="120" fill="#E53E3E" rx="4"/>
+    <text x="45" y="270" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#E53E3E">Hoje, 06:30 AM</text>
+    <text x="45" y="295" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#F0E9DA">Agravamento - SPI Severo</text>
+    <text x="45" y="320" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">Recomendação: Considere adiar plantio.</text>
+    <circle cx="330" cy="280" r="18" fill="#E53E3E"/>
+    <polygon points="325,272 325,288 338,280" fill="#FFFFFF"/>
+    <text x="330" y="315" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#E53E3E" text-anchor="middle">Ouvir</text>
+
+    <text x="20" y="400" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#F0E9DA">Histórico da Semana</text>
+
+    <rect x="20" y="420" width="350" height="80" fill="#5B6C7A" stroke="#204E7A" stroke-width="1" rx="10"/>
+    <rect x="20" y="420" width="6" height="80" fill="#DD6B20" rx="3"/>
+    <text x="45" y="445" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF">Ontem, 14:15</text>
+    <text x="45" y="465" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#F0E9DA">Tendência de Seca Moderada</text>
+    <circle cx="335" cy="460" r="14" fill="#DD6B20"/>
+    <polygon points="331,454 331,466 341,460" fill="#FFFFFF"/>
+
+    <rect x="20" y="515" width="350" height="80" fill="#5B6C7A" stroke="#204E7A" stroke-width="1" rx="10"/>
+    <rect x="20" y="515" width="6" height="80" fill="#3182CE" rx="3"/>
+    <text x="45" y="540" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF">Há 3 dias</text>
+    <text x="45" y="560" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#F0E9DA">Resumo Semanal (Áudio)</text>
+    <circle cx="335" cy="555" r="14" fill="#3182CE"/>
+    <polygon points="331,549 331,561 341,555" fill="#FFFFFF"/>
+
+    <rect x="0" y="790" width="390" height="54" fill="#5B6C7A" stroke="#204E7A" stroke-width="1"/>
+    <rect x="30" y="800" width="40" height="30" fill="none" rx="10"/>
+    <circle cx="50" cy="815" r="8" fill="#F0E9DA"/>
+    <rect x="125" y="800" width="40" height="30" fill="#1A202C" rx="10"/>
+    <circle cx="145" cy="815" r="8" fill="#E53E3E"/>
+    <rect x="235" y="807" width="16" height="16" fill="#F0E9DA" rx="4"/>
+    <circle cx="340" cy="810" r="6" fill="none" stroke="#F0E9DA" stroke-width="3"/>
+    <path d="M330 825 Q 340 815, 350 825" fill="none" stroke="#F0E9DA" stroke-width="3"/>
+
+    <rect x="125" y="832" width="140" height="5" fill="#FFFFFF" rx="2.5" opacity="0.5"/>
+</svg>

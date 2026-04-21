@@ -1,0 +1,63 @@
+Fase 1: Fundação, Injeção de Dependências e Persistência
+
+O objetivo aqui é garantir que a app seja escalável e que as definições do utilizador sobrevivam ao fecho da aplicação.
+1.Injeção de Dependências (Hilt/Koin):
+◦Configurar o Hilt para gerir a criação de instâncias de Repository, ViewModels e serviços de áudio.
+2.Persistência de Dados (DataStore):
+◦Implementar UserPreferencesRepository utilizando Jetpack DataStore (Proto ou Preferences).
+◦Campos a persistir: isSimpleLanguageMode, hapticFeedbackEnabled, snoozeModeActive, selectedRegion, userCrops (lista de culturas).
+3.Expansão do Modelo de Domínio:
+◦Criar DecisionSupport: Modelo que contém a lógica de recomendação baseada nos níveis de SPI/SPEI.
+◦Criar AudioContext: Classe para gerir se o áudio a reproduzir é um Earcon (som sintético curto) ou um Spearcon (fala acelerada).
+
+Fase 2: O Motor de Áudio e Notificações (VoxNoti Engine)
+
+Esta é a funcionalidade central ("core") da app.
+1.Serviço de Reprodução (Media3/ExoPlayer):
+◦Implementar um AudioPlayerService centralizado.
+◦Criar um AudioState (Idle, Buffering, Playing, Paused) observável pela UI.
+2.Gestor de Alertas:
+◦NotificationManager: Implementar canais de notificação (Crítico, Informativo).
+◦Integração de áudio: Fazer com que a notificação execute automaticamente o áudio curto se o telemóvel estiver em modo "mãos livres".
+3.Engine Háptica:
+◦Criar um HapticController que gera padrões de vibração distintos (ex: 3 vibrações curtas para risco Crítico, 1 longa para Normal).
+
+Fase 3: Camada de ViewModel e Lógica de Negócio
+
+Implementar a inteligência que processa os dados antes de chegarem ao ecrã.
+1.DashboardViewModel:
+◦Lógica de cálculo de tendências (está a piorar ou a melhorar?).
+◦Mapeamento de valores numéricos (0.35f) para estados visuais (Cores de alerta).
+2.AlertsViewModel:
+◦Lógica de filtragem: Esconder alertas de "Vinha" se o utilizador só tem "Olival".
+◦Gestão de "Marcar como Lido" e sincronização com o repositório.
+3.RecommendationsViewModel:
+◦Lógica de cruzamento de dados: Se SPI < -1.5 E Cultura == "Vinha", então sugerir "Adiar Plantio".
+
+Fase 4: UI Reativa e Componentes de Design
+
+Construir a interface que reage aos ViewModels.
+1.Componentes Atómicos:
+◦StatusCard: Um card que muda de cor e ícone dinamicamente conforme o RiskLevel.
+◦WaveformLinearProgress: Uma barra de progresso para os podcasts que simula uma onda sonora.
+2.Ecrãs Reais:
+◦Dashboard: Implementar gráficos de linha simples para o histórico de humidade do solo.
+◦Alerts: Lista com swipe-to-dismiss para remover alertas do histórico.
+◦Profile: Formulário de configuração que guarda instantaneamente no DataStore ao alterar um Switch.
+3.Acessibilidade Adaptativa:
+◦Implementar um CompositionLocal para o "Modo Linguagem Simples" que troca os labels de texto em toda a árvore da UI.
+
+Fase 5: Integração de Dados Reais e Edge Cases
+
+1.Network Layer (Retrofit/Ktor):
+◦Substituir os dados simulados por chamadas a uma API (ex: IPMA ou serviços meteorológicos).
+2.Offline First:
+◦Utilizar Room Database para cache dos últimos alertas, permitindo consulta sem internet.
+3.Tratamento de Erros:
+◦Ecrãs de "Sem Conexão" e lógica de Retry.
+
+Fase 6: Polimento, Testes e Performance
+
+1.Testes de Unidade: Validar se a lógica do DecisionSupport recomenda as ações corretas para cada valor de SPI.
+2.Animações Compose: Adicionar transições suaves entre ecrãs e animações de "pulsação" nos indicadores de risco crítico.
+3.Profiling: Otimizar o consumo de bateria do serviço de áudio em background.
