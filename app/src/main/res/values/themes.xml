@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.IPCP_L3" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+    </style>
+</resources>
