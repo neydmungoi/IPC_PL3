@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:2:1-28:12
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\nunog\.gradle\caches\9.0.0\transforms\9ace92738b92326c4d15062a69fe4b32\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\nunog\.gradle\caches\9.0.0\transforms\d9cc724203d358e96838eabe0c208c13\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\nunog\.gradle\caches\9.0.0\transforms\bfe21ce723241cc135b5780b06b1ce40\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
@@ -108,9 +108,17 @@ uses-permission#android.permission.INTERNET
 ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
 		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:7:22-78
 application
-ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:7:5-24:19
-INJECTED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:7:5-24:19
+ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:9:5-26:19
+INJECTED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:9:5-26:19
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\nunog\.gradle\caches\9.0.0\transforms\9ace92738b92326c4d15062a69fe4b32\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\nunog\.gradle\caches\9.0.0\transforms\9ace92738b92326c4d15062a69fe4b32\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\nunog\.gradle\caches\9.0.0\transforms\bfe21ce723241cc135b5780b06b1ce40\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
@@ -136,37 +144,37 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nu
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.15.0] C:\Users\nunog\.gradle\caches\9.0.0\transforms\be91ebc4eb21d983ac55e6772d50531f\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:12:9-41
 	android:roundIcon
-		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:13:9-54
 	android:icon
-		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:11:9-43
 	android:allowBackup
-		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:13:9-45
+		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:15:9-45
 activity#com.ipc.sentinela.MainActivity
-ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:14:9-23:20
+ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:16:9-25:20
 	android:label
-		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:17:13-45
+		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:19:13-45
 	android:exported
-		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:16:13-36
+		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:18:13-36
 	android:theme
-		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:18:13-49
+		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:20:13-49
 	android:name
-		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:15:13-41
+		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:17:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:19:13-22:29
+ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:21:13-24:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:20:17-69
+ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:20:25-66
+		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:21:17-77
+ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml:23:27-74
 uses-sdk
 INJECTED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\nunog\StudioProjects\IPC_PL3\app\src\main\AndroidManifest.xml
